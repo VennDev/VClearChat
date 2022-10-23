@@ -1,3 +1,5 @@
+<img src = "https://github.com/VennDev/VClearChat/blob/main/icon.png"/>
+
 # VClearChat
 - One plugin ClearChat for PocketMine-PMMP 4
 
