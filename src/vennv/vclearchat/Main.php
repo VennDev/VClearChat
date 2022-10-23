@@ -40,7 +40,7 @@ class Main extends PluginBase implements Listener {
     public function onPlayerChat(PlayerChatEvent $event) : void {
         $message = $event->getMessage();
         if (count(self::$chats) >= $this->getConfig()->get("chats_handler")) {
-            for ($i = 0; $i < $this->getConfig()->get("chats_handler"); $i++) {
+            for ($i = 0; $i < 50; $i++) {
                 $this->getServer()->broadcastMessage(TextFormat::RESET . '');
             }
             self::$chats = [];
