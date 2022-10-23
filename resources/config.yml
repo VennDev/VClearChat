@@ -1,0 +1,2 @@
+# This will be the number of chats kept for cleaning up chats.
+chats_handler: 10
