@@ -1,6 +1,6 @@
 name: VClearChat
 main: vennv\vclearchat\Main
 author: VennV
-version: 1.0.0
+version: 1.0.1
 api: 5.0.0
 desciption: A plugin for PocketMine-PMMP that helps control the recording of too much chat data to the server.
